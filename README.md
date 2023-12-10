@@ -1,5 +1,7 @@
 ### Hi there, im Amir Lotfi 👋
 
+[![ReadMeSupportPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner)
+
 <!--
 **saelozahra/saelozahra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
